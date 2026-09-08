@@ -233,3 +233,6 @@ This repository serves as the official landing page for Truck Simulator 3D. The 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Truck Simulator 3D today!**
+
+---
+**Last updated:** 2026-09-08 16:54:03 UTC

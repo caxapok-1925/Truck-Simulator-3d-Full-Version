@@ -235,4 +235,4 @@ This repository serves as the official landing page for Truck Simulator 3D. The 
 **Get the most recent version of Truck Simulator 3D today!**
 
 ---
-**Last updated:** 2026-09-08 22:08:53 UTC
+**Last updated:** 2026-09-09 00:50:03 UTC
